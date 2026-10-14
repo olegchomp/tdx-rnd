@@ -1,4 +1,4 @@
-# td-rnd
+# tdx-rnd
 
 TouchDesigner components.
 
